@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualControl", "VisualControl\VisualControl.csproj", "{6562214F-3A17-447F-91C5-A59F226E1BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualControl.Test", "VisualControl.Test\VisualControl.Test.csproj", "{65DF279E-F7C3-406D-B51E-6B1AB406D472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6562214F-3A17-447F-91C5-A59F226E1BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6562214F-3A17-447F-91C5-A59F226E1BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6562214F-3A17-447F-91C5-A59F226E1BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6562214F-3A17-447F-91C5-A59F226E1BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DF279E-F7C3-406D-B51E-6B1AB406D472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DF279E-F7C3-406D-B51E-6B1AB406D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DF279E-F7C3-406D-B51E-6B1AB406D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DF279E-F7C3-406D-B51E-6B1AB406D472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

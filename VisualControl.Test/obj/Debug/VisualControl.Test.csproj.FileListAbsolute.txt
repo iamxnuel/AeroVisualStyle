@@ -1,0 +1,11 @@
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\bin\Debug\VisualControl.Test.exe.config
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\bin\Debug\VisualControl.Test.exe
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\bin\Debug\VisualControl.Test.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\bin\Debug\VisualControl.dll
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\bin\Debug\VisualControl.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.Properties.Resources.resources
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.csproj.GenerateResource.Cache
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.exe
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.pdb
+C:\Users\Manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl.Test\obj\Debug\VisualControl.Test.formMain.resources

@@ -1,0 +1,5 @@
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl\bin\Debug\VisualControl.dll
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl\bin\Debug\VisualControl.pdb
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl\obj\Debug\VisualControl.dll
+c:\users\manuel\documents\visual studio 2017\Projects\VisualControl\VisualControl\obj\Debug\VisualControl.pdb
+C:\Users\Manuel\Documents\Visual Studio 2017\Projects\VisualControl\VisualControl\obj\Debug\VisualControl.csprojResolveAssemblyReference.cache
