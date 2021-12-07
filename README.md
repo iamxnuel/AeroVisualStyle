@@ -1,2 +1,2 @@
 # AeroVisualStyle
-An Visual Style Renderer for the old Windows 7 Aero Basic Style
+Archived: Old Visual Style Renderer for Windows 7 Aero Style ControlBox Buttons
